@@ -1,0 +1,8 @@
+httpx>=0.27.0
+pydantic>=2.6.0
+python-dotenv>=1.0.1
+tenacity>=8.2.3
+
+# Optional: enables `from werewolf_gateway.instructor_adapter import patched`
+# instructor>=1.3.0
+# openai>=1.30.0
